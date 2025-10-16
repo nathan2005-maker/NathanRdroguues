@@ -10,14 +10,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathan2005-maker&layout=compact&langs_count=16&theme=dark"/ >
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="N-Java" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="center" alt="N-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
-<img align="center" alt="N-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg">
-<img align="center" alt="Rafa-Python" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="android"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
-</div> 
-
+<img align="center" alt="CPlusPlus" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="VisualStudio" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="center" alt="Go" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img align="center" alt="Go" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 ##
 <div>
 <a href="https://www.instagram.com/_nathanrodrig" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
